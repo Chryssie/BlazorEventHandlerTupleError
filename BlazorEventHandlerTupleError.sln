@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32427.441
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorEventHandlerTupleError", "BlazorEventHandlerTupleError\BlazorEventHandlerTupleError.csproj", "{31F85068-D64D-4FC2-BAE7-66EF8F9007B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F85068-D64D-4FC2-BAE7-66EF8F9007B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F85068-D64D-4FC2-BAE7-66EF8F9007B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F85068-D64D-4FC2-BAE7-66EF8F9007B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F85068-D64D-4FC2-BAE7-66EF8F9007B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4C35D47-D896-4D1C-9D70-3AE4A4CB284B}
+	EndGlobalSection
+EndGlobal
